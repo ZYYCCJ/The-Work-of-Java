@@ -2,7 +2,7 @@ package test3;
 
 import java.util.Scanner;
 
-public class BusinessCheckOutISBN10 {
+public class BusinessCheckOutISBN10339 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter the first 9 digits of An ISBN as integer: ");

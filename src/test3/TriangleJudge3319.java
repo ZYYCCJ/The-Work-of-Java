@@ -2,7 +2,7 @@ package test3;
 
 import java.util.Scanner;
 
-public class TriangleJudge {
+public class TriangleJudge3319 {
 	public static void main(String[] args) {
 		System.out.print("Enter the first length of an edge:");
 		Scanner input = new Scanner(System.in);

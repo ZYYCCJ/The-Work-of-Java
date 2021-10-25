@@ -2,7 +2,7 @@ package test3;
 
 import java.util.Scanner;
 
-public class GameLottery {
+public class GameLottery3315 {
 	public static void main(String[] args) {
 		int key = (int)(Math.random()*900+100);
 		Scanner x = new Scanner(System.in);

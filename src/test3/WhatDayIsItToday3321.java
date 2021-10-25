@@ -2,7 +2,7 @@ package test3;
 
 import java.util.Scanner;
 
-public class WhatDayIsItToday {
+public class WhatDayIsItToday3321 {
 	public static void main(String[] args) {
 		String[] a= {"Saturday","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday"};
 		Scanner input = new Scanner(System.in);

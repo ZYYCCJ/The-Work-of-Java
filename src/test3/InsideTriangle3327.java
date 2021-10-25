@@ -2,7 +2,7 @@ package test3;
 
 import java.util.Scanner;
 
-public class InsideTriangle {
+public class InsideTriangle3327 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter a point's x- and y-coordinates:");
