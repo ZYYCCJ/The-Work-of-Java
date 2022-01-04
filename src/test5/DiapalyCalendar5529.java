@@ -23,6 +23,7 @@ public class DiapalyCalendar5529 {
 			}
 			else day = 30;
 			for(int j = 1;j <= day;j++) {
+				
 				if(tmp == 0) tmp = 7;
 				if(j<10) System.out.printf("%d      ",j);
 				else System.out.printf("%d     ",j);
